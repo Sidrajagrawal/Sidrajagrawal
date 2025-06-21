@@ -1,37 +1,38 @@
 <h1 align="center">Hi 👋, I'm Siddharth Raj Agrawal</h1>
-<h3 align="center">AI & Full-Stack Developer | Web Developer | Industrial ML Enthusiast 🚀</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9BF0&width=435&lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;Generative+AI+Explorer;Open+Source+Contributor;Building+Industrial+AI+Solutions" alt="Typing SVG" />
+</h3>
 
 <p align="center">
+  <a href="https://github.com/Sidrajagrawal"><img src="https://img.shields.io/github/followers/Sidrajagrawal?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/siddharth1706/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
 </p>
 
 ---
 
 - 🎓 **B.Tech (AIML)** | GLA University, Mathura (2027 expected)
-- 🛠️ Experienced in full-stack web development using **React.js, Django, Django REST Framework**
-- 🤖 AI/ML focus: **Generative AI, VGG16, GAN, Finetuning of LLm's**, ML models and Data Science
-- 🌐 Proficient in: **Python, JavaScript, HTML/CSS, Bootstrap, MySQL, SQLite3**
-- 🏆 **Winner** at HACK N WIN 2.0 (CGC Punjab), **Winner** at Hack'24 (IIIT Delhi)
-- 📄 [View Internship Certificate (NRVS Steels Ltd.)](https://drive.google.com/file/d/1kwOSi13q6_wP5QLY1PX6uzR1yGYFoFTu/view?usp=sharing)
+- 🛠️ Passionate **AI/ML + Full Stack Web Developer** (React.js + Django REST Framework)
+- 🤖 Expertise in **Generative AI, VGG16, GAN**, ML models and Data Science
+- 🌐 Tech Stack: **Python, JavaScript, HTML/CSS, Bootstrap, MySQL, SQLite3**
+- 🚀 Winner of **HACK N WIN 2.0** & **Hack'24**
+- 📄 [Internship Certificate (NRVS Steels Ltd.)](https://drive.google.com/file/d/1kwOSi13q6_wP5QLY1PX6uzR1yGYFoFTu/view?usp=sharing)
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-**✅ Unified Data Aggregation and Query System (UDAQS)**  
-Scalable data integration platform (React.js + Django) for real-time insights from multiple databases  
-→ Supports MySQL, SQLite3, PostgreSQL | Custom SQL queries & AI-based natural language queries
+- **UDAQS**: Unified Data Aggregation & Query System  
+  🛠️ React.js + Django | AI-based SQL query generator | Multi-DB real-time insights
 
-**✅ AI Floor Plan Generator**  
-AI tool to generate floor plans based on land dimensions  
-→ For architects, designers & homeowners | Simple UI + React + Django backend
+- **AI Floor Plan Generator**  
+  🛠️ React.js + Django | Generates floor plans using AI based on user inputs
 
-**✅ Fusion Thread - AI Clothing Generator**  
-AI-driven clothing design platform using Generative AI, VGG16 & GAN models  
-→ Automates innovative clothing designs for fashion brands
+- **Fusion Thread - AI Clothing Generator**  
+  🛠️ GAN + VGG16 | AI-driven clothing design platform for fashion innovation
+
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -39,6 +40,7 @@ AI-driven clothing design platform using Generative AI, VGG16 & GAN models
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -47,10 +49,26 @@ AI-driven clothing design platform using Generative AI, VGG16 & GAN models
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidrajagrawal&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidrajagrawal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidrajagrawal&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sidrajagrawal&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidrajagrawal&theme=algolia&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -72,10 +90,14 @@ GLA University, Mathura — *Expected 2027*
 
 ---
 
-### 📬 Contact Me
+### 📬 Connect with Me
 
-- 📧 Email: sidrajagrawal@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/siddharth1706/)
+<p align="center">
+  <a href="mailto:sidrajagrawal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/siddharth1706/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Sidrajagrawal"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
 ---
 
 <p align="center">⭐️ Thanks for visiting my profile ⭐️</p>
