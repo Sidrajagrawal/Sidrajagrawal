@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/siddharth1706/" target="_blank">Siddharth Raj Agrawal</a> 🚀</h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/siddharth1706/" target="_blank">Siddharth Raj Agrawal</a> </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9BF0&center=true&width=700&lines=AI+%26+ML+Developer+%7C+Full+Stack+Web+Developer;Generative+AI+%7C+VGG16+%7C+GAN+Explorer;Building+Industrial+AI+Solutions+for+Real+World+Impact;Winner+Hackathons+%7C+HackNWin+%7C+Hack'24" alt="Typing SVG" />
@@ -71,7 +71,6 @@ Processes datasets, resizes, normalizes images, and delivers innovative designs 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sidrajagrawal&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidrajagrawal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,14 +83,6 @@ Processes datasets, resizes, normalizes images, and delivers innovative designs 
 
 ---
 
-### 🎯 Currently Learning
-
-- Advanced React Patterns
-- AI for Industrial IoT
-- Generative AI architectures
-- Real-time data pipelines
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sidrajagrawal&label=Profile%20views&color=1D9BF0&style=flat" alt="Profile views" />
