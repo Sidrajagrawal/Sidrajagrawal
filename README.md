@@ -48,12 +48,7 @@ class SiddharthRajAgrawal:
 
 <table width="100%">
 <tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidrajagrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%">
+<td >
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidrajagrawal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -61,106 +56,72 @@ class SiddharthRajAgrawal:
 </tr>
 </table>
 
----
-
-## 🌳 LeetCode Performance (Dynamic Tree)
-
-<!-- LEETCODE:START -->
-Loading latest LeetCode stats...
-<!-- LEETCODE:END -->
-
----
-
 ## Technical Skills
+```plaintext
 
-### Core Technologies
-- **Programming Languages:** Java, JavaScript,Python 
-- **Frontend Frameworks:** React.js, Bootstrap,Tailwind
-- **Backend Frameworks:** Django REST APIs
-- **AI/ML Libraries:** TensorFlow, PyTorch, scikit-learn, Keras, NumPy, Pandas
-- **Databases:** MySQL, PostgreSQL, SQLite3
-- **Development Tools:** Git, VS Code, Postman, Eclipse, Jupyter-Notebook, Google-Colab
+                   Technical Skills 
+                          |
+    -------------------------------------------------
+    |                                               |
+ Core Technologies                         Specialized Expertise
+    |                                               |
+ ┌───────────────────────────┐             ┌──────────────────────────┐
+ | Languages:                |             | Machine Learning & NLP    |
+ |   - Java                  |             |   - GAN, VGG16, CNN       |
+ |   - JavaScript            |             |   - Deep Learning         |
+ |   - Python                |             |   - BERT, RoBERTa         |
+ |                           |             |                           |
+ | Frontend Frameworks:      |             | Web Development           |
+ |   - React.js              |             |   - Full-Stack Dev        |
+ |   - Bootstrap             |             |   - Database Integration  |
+ |   - Tailwind              |             |                           |
+ |                           |             | Data Processing           |
+ | Backend Frameworks:       |             |   - ETL Pipelines         |
+ |   - Django REST APIs      |             |   - Data Visualization    |
+ |                           |             |                           |
+ | AI/ML Libraries:          |             | System Architecture       |
+ |   - TensorFlow            |             |   - Scalable Application  |
+ |   - PyTorch               |             |     Design                |
+ |   - scikit-learn          |             |                           |
+ |   - Keras                 |             └───────────────────────────┘
+ |                           |
+ | Databases:                |
+ |   - MySQL                 |
+ |   - PostgreSQL            |
+ └───────────────────────────┘
 
-### Specialized Expertise
-- **Machine Learning & NLP:** GAN, VGG16, CNN, Deep Learning,BERT,RoBERTa
-- **Web Development:** Full-Stack Development, Database Integration
-- **Data Processing:** ETL Pipelines, Data Visualization
-- **System Architecture:** Scalable Application Design
+```
 ---
 
-## Professional Achievements
 
-### Competition Awards
-- **Hack N Win 2.0** — *First Place Winner* (Team Leadership & Rapid Development)  
-- **Hack'24** — *Competition Winner* (Innovation & Technical Excellence)  
-- **SPARKTHON** — *Idea Pitch Participant* (Startup & Innovation Showcase)  
+## 🌟 Professional Achievements
 
-### Industry Certifications
-- [Meta Backend Development](https://coursera.org/share/48fb5370ac076a0c25385f4862ba88ab) - Professional Certificate
-- [Meta Frontend Development](https://coursera.org/share/4ede9c4ba52ee7f19adb871d122698d8) - Professional Certificate  
-- [Python Basic - HackerRank](https://www.hackerrank.com/certificates/e57c06e51de9) - Programming Proficiency
-
----
-
-## Current Projects
-
-### 1. Unified Data Aggregation and Query System (UDAQS)
-**Stack:** React.js, Django, MySQL, PostgreSQL, SQLite3  
-**Features:**
-- Multi-database integration and management
-- AI-powered natural language query processing
-- Real-time data visualization and reporting
-- Enterprise-level scalable architecture
-
-### 2. AI Floor Plan Generator
-**Stack:** React.js, Django, Machine Learning APIs  
-**Impact:**
-- Automated architectural design optimization
-- 70% reduction in design iteration time
-- Custom layouts based on client specifications
-- Integration-ready for workflow systems
-
-### 3. Fusion Thread - AI Clothing Generator
-**Stack:** Python, GAN, VGG16, TensorFlow  
-**Achievements:**
-- Generative Adversarial Network implementation
-- Custom dataset processing and normalization
-- Commercial fashion design automation
-- Production-ready model architecture
+| 🏆 Competition Awards        | 📜 Certifications |
+|-------------------------------|------------------|
+| **Hack N Win 2.0** — Winner | [Meta Backend Development](https://coursera.org/share/48fb5370ac076a0c25385f4862ba88ab) |
+| **Hack'24** — Winner           | [Meta Frontend Development](https://coursera.org/share/4ede9c4ba52ee7f19adb871d122698d8) |
+| **SPARKTHON** — Winner  | [Python Basic - HackerRank](https://www.hackerrank.com/certificates/e57c06e51de9) |
 
 ---
 
-## Core Competencies
+## ✅ Professional Availability
 
-- **Machine Learning Engineering:** Model development, training, optimization, and deployment
-- **Full-Stack Web Development:** End-to-end application development with modern frameworks
-- **Database Architecture:** Multi-database system design and optimization
-- **API Development:** RESTful services and third-party integrations
-- **Project Leadership:** Cross-functional team coordination and technical mentoring
-- **Problem Solving:** Algorithmic thinking and competitive programming
----
+**Target Roles**
+- [x] Full-Stack Developer 
+- [x] AI/ML Engineer  
+- [x] Python Developer  
+- [x] Software Engineer (AI Specialization)  
 
-## Professional Availability
+**Work Arrangements**
+- [x] Full-time
+- [x] Remote  
+- [x] Hybrid  
+- [x] Internship (with growth potential)  
 
-### Open to Opportunities
-
-**Target Roles:**
-- AI/ML Engineer
-- Full-Stack Developer  
-- Python Developer
-- Software Engineer (AI Specialization)
-
-**Work Arrangements:**
-- Remote, Hybrid, or On-site positions
-- Full-time or Contract opportunities
-- Internships with growth potential
-
-**Industries of Interest:**
-- Technology & Software Development
-- AI/ML Research & Development
-- Data Analytics & Business Intelligence
-- Web Application Development
-
+**Industries of Interest**
+- [x] Web Application Development  
+- [x] AI/ML Development    
+      
 ---
 
 <div align="center">
