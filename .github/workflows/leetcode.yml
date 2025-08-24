@@ -1,0 +1,53 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install jq (JSON parser)
+        run: sudo apt-get install jq -y
+
+      - name: Fetch LeetCode Stats
+        run: |
+          curl -s https://leetcode-stats-api.herokuapp.com/sidrajagrawal > stats.json
+
+      - name: Update README
+        run: |
+          totalSolved=$(jq .totalSolved stats.json)
+          easySolved=$(jq .easySolved stats.json)
+          mediumSolved=$(jq .mediumSolved stats.json)
+          hardSolved=$(jq .hardSolved stats.json)
+          ranking=$(jq .ranking stats.json)
+          contestRating=$(jq .contestRating stats.json)
+
+          tree="LeetCode Performance ── DSA Tree Visualization
+
+                     [ LeetCode Profile ]
+                            |
+            -----------------------------------------------
+            |                                               |
+    [ Stats ]                                        [ Contests ]
+            |                                               |
+    Total Solved: $totalSolved                      Rating: $contestRating
+       ├── Easy: $easySolved                         Rank: $ranking
+       ├── Medium: $mediumSolved                     Attended: 1
+       └── Hard: $hardSolved
+"
+
+          # Replace content between LEETCODE:START and LEETCODE:END
+          sed -i '/<!-- LEETCODE:START -->/,/<!-- LEETCODE:END -->/c\<!-- LEETCODE:START -->\n```plaintext\n'"$tree"'\n```\n<!-- LEETCODE:END -->' README.md
+
+      - name: Commit & Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "♻️ Update LeetCode stats"
