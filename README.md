@@ -40,7 +40,6 @@ class SiddharthRajAgrawal:
 <div align="center">
 
 ### GitHub Analytics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sidrajagrawal&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidrajagrawal&theme=tokyo-night&hide_border=true&area=true)
 
